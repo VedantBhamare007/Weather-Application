@@ -1,0 +1,1 @@
+window.WEATHER_API_KEY = '57be3d870d8df9e19244ba0b281f7b51';
